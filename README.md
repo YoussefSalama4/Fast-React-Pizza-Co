@@ -27,7 +27,7 @@ Fast React Pizza Co is a React.js application that allows users to order pizzas 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YoussefSalama4/Worldwise.git
+   git clone https://github.com/YoussefSalama4/Fast-React-Pizza-Co.git
    ```
 
 2. Install the dependencies:
